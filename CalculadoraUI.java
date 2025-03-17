@@ -338,6 +338,7 @@ public class CalculadoraUI extends javax.swing.JFrame {
                 JOptionPane.showMessageDialog(this, "Seleccione una operación", "Error", JOptionPane.ERROR_MESSAGE);
             break;
             default:
+            //implementa algo despues
             break;
         
         }
